@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the King. A proclamation against priuate challenges and combats: vvith articles annexed for the better directions to be vsed therein, and for the more iudiciall proceeding against offenders.</title>
+            <author>England and Wales. Sovereign (1603-1625 : James I)</author>
+         </titleStmt>
+         <extent>Approx. 17KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B12793</idno><idno type="EEBO-CITATION">99891133</idno>
+  <idno type="VID">185800</idno>
+  <idno type="EEBO-PROQUEST">2240912330</idno>
+  
+            <idno type="STC">STC 8497</idno>
+            <idno type="STC">Interim Tract Supplement Guide 506.h.12[73]</idno>
+            <idno type="STC">ESTC S100828</idno>
+            <idno type="PROQUEST">ocm99891133</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99891133e"/>
+            <note>(EEBO-TCP ; phase 2, no. B12793)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 185800)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C2:3[73])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the King. A proclamation against priuate challenges and combats: vvith articles annexed for the better directions to be vsed therein, and for the more iudiciall proceeding against offenders.</title>
+                  <author>England and Wales. Sovereign (1603-1625 : James I)</author>
+                  <author>James I, King of England, 1566-1625.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>by Robert Barker, printer to the Kings most Excellent Maiestie,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>anno Dom. 1613 [i.e. 1614].</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Dated at end: VVestminster the fourth day of February, in the eleuenth yeere of our reigne ..</note>
+                  <note>The publication year is given according to Lady Day dating.</note>
+                  <note>Arms 13; Steele notation: and  pose  2) doeth  3) bee 4) speedie  then.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Dueling --  Law and legislation --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-01 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="royal_proclamation">
+            <pb facs="tcp:185800:1"/>
+            <head>❧ By the King.</head>
+            <head>
+               <figure>
+                  <figDesc>royal blazon surmounted by a crown</figDesc>
+               </figure>
+            </head>
+            <head type="sub">¶ A Proclamation against priuate Challenges and Combats: With Articles annexed for the better directions to be vsed therein, and for the more iudiciall proceeding against Offenders.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">T</seg>He slaughters which We find to haue bene strangely multiplied and</hi> encreased in these later times, by the boldnesse which many of Our subiects take, to chalenge any man into the Field, towards whom they cary either grudge or malice in their minds, vnder the pretext of satisfaction to pretended wrongs, without imploring aide either of the Lawes, or Ciuil Magistrates: haue mooued Vs, out of the tender care which We take of Our loyall Sub<g ref="char:EOLhyphen"/>iects liues, to enter into some speedie course for the stopping of a Vaine that bleeds both incessantly, and inwardly. For to speake trueth, to what pur<g ref="char:EOLhyphen"/>pose serue the Lawes of God, the prouisionall instructions of men, and the course of ordinarie Iustice in the Common wealth (whether Wee respect the Court of <hi>Chiualrie,</hi> or the Ciuill Courts,) if it be free for Subiects out of the distemper of their owne distempered con<g ref="char:EOLhyphen"/>ceits, either to rate the quality of the wrong supposed, or the satisfaction that belongs to it? Besides, it were great pittie, that so many Iudgements as in other things shew grauitie and moderation, should be so strangely bewitched, and as it were enchanted in this kinde with the very dregges of <hi>Circes</hi> Cup, (transforming consideration into passion, reason into appetite, and men into beasts) as to thinke that any graine of worth of reputation or true honour, can be drawne out of any act that is absolutely repugnant to all such Lawes (aswell Diuine as humane) as sway both Religions and Policies. For as no man accompts his Armour of high proofe, before it haue bene tried by Shot, no more are Gentlemen esteemed for their valour by the greater part of giddie censours at this day, that haue not almost assoone as they can hold a Sword in their hand, put themselues vp<g ref="char:EOLhyphen"/>on their proofe, either in <hi>S. Georges</hi> fields, or at <hi>Finsbury,</hi> without the least respect to the Iustice of the ground that should make good the pursuit or euent of the quarrell.</p>
+            <p>WE are not ignorant in what degree slaughters vpon priuate Challenges are ranked by the Lawes of the land, (howsoeuer iniurie be made the maske) nor how earnest many busie persons are to make their owne wills absolute in some point, since they know not by what colour or pre<g ref="char:EOLhyphen"/>tence to command in all, nor how cunningly some argue for excuse of Challenges, by imputing weakenesse (as they would haue vs apprehend) to the Lawes and Statutes of the Realme, in that they forbeare either out of insensibilitie or neglect, to giue satisfaction to some certaine termes and reproches, As for example to that of the Lye, which the custome and construction of the dayes in which wee liue, hath matched with those wrongs that are reputed to be most exorbitant: For though no priuate Challenge to the peril of a loyall Subiects life, be either iust or compatible with
+<pb facs="tcp:185800:2"/>the policie of any orderly or well stayed gouernment vpon such poore grounds, as passion doeth commonly pretend: yet so long as men deeply wounded by disgrace, were left destitute of helpe by ordinarie and lawfull meanes, they might with better colour seeke to saue and satisfie themselues by those sharpe courses which the Lawes cannot iustifie.</p>
+            <p>But since Our care hath bene to giue satisfaction by certaine Rules and limitations to the least offence, contempt or disgrace, whereof reputation hath reason to be sensitiue, Wee doe not onely ex<g ref="char:EOLhyphen"/>pect, but beside both will and command, That after fortie dayes expired, which Wee prescribe to be<g ref="char:EOLhyphen"/>gin instantly from the publication of Our prohibition, no man shall presume in their wonted ma<g ref="char:EOLhyphen"/>ner (which ought indeed to be no maner among worthy Subiects and sober men) either to send or accept of Challenges, or to seeke satisfaction by any other meanes then those, which are made good either by the Lawes of the Kingdome, or the Court of Honour. The scope of this prefixed limitation to the space of fortie dayes (intending onely to prouide for Subiects, that by reason of their distance from the Centres of direction cannot so speedily be made acquainted with Our mea<g ref="char:EOLhyphen"/>ning, as they that are at hand) giueth small aduantage to any inference, that in the meane space it shalbe lawful to begin or prosecute a quarel in the forme prohibited. For We do not onely exclude all such Interpreters from any kinde of respite, dispensation or benefit pretended by the terme, (in case it may be prooued by examinations or depositions of witnesses, that before the quarell they were priuie to the stoppe) but further purpose also to deale more seuerely with them then any of the rest, for sucking poison out of Honisuckles, and making the care which We take of men that haue not de<g ref="char:EOLhyphen"/>serued ill, a warrant for their owne wilfull boldnesse, that is opposite to Authoritie.</p>
+            <p>But as it is certaine, that before the eye be able to discerne plaine figures, it must be cleared and inlightned by that visiue facultie which nature her selfe affords; so is it no lesse sure, that instruc<g ref="char:EOLhyphen"/>tion ought to precede execution: In respect wherof Wee calling to mind out of that duetie which We owe to God, the precise account which We are to make in another world for the losse of so ma<g ref="char:EOLhyphen"/>ny liues, as might haue bin secured by prouidence, or preserued by care, and seeking no lesse tenderly to relieue men that are sensitiue of honor, then to punish others that are carelesse of Our Charge, haue set downe two wayes of satisfaction: The first, to the publike Iustice of the State (woun<g ref="char:EOLhyphen"/>ded by contempt:) the second to the party that complaines, offended by disgrace, as the best meanes to appease the wrath of God, and stay the current of manslaughters among men: For Our Sub<g ref="char:EOLhyphen"/>iects may be mooued hereby to apprehend, that so long as they breake Our order, by calling men presumptuously to triall by the Sword (that in a better course are ready to redeeme their errour by a more ciuill and sober meane) they may rest assured in both Cases to feele the sharpe edge of Our indignation by implacable seueritie.</p>
+            <p>Touching the first branch, which properly belongeth to Our place, in affrighting presumption with terrour, and pride with punishment, it is not hard to obserue, what satisfaction the Iustice of the State it selfe requires for the scorne receiued from wilfull contempt at the hand of those, that notwithstanding the remedies which are proportionably set downe to wrongs, yet follow their old Paradox, supposing no satisfaction to be sufficient, besides that which the partie that hath bene offended, taketh with his owne hand, and by the sword: a Maxime more agreeable in trueth to the disposition of a <hi>Cain,</hi> then of a <hi>Constantine.</hi> The proportions of punishments for all sorts of wrongs, are particularly expressed, to exclude all excuses of wilfull ignorance, publique respects holding by iust priuiledge the precedence of all priuate complaints, that in their fit times and pla<g ref="char:EOLhyphen"/>ces come by degrees, and at greater leasure to be compared and considered. For by what reason can they challenge to be forborne with tendernesse, or regarded with respect, that hauing before their eyes an offer of correspondent satisfaction, for iniury (not freshly deuised, but anciently appro<g ref="char:EOLhyphen"/>ued by worthy persons, that were reputed both in Courts and Campes the greatest Commaun<g ref="char:EOLhyphen"/>ders in their time:) had rather take a course to aggrauate, then abate, to exasperate then qualifie: besides those sores, sighes, and sharpe corrasiues, which single Fights (perplexing, or rather tor<g ref="char:EOLhyphen"/>menting the consciences of quicke and ready vndertakers) doe commonly bring with them.</p>
+            <p>But because it would be hard to comprise within the bulke of an ordinary Proclamation so ma<g ref="char:EOLhyphen"/>ny differences by narrow distinction, so many motiues of iudicious perswasion, so many kindes of worthy satisfaction, as the difficulties of the poynt it selfe, and the curiositie of questions in these times, require: Wee thought it requisite to referre this Proclamation to a more large dis<g ref="char:EOLhyphen"/>course annexed, for the Warrant of the resolution it selfe, one furthering another by reciprocall re<g ref="char:EOLhyphen"/>spects, and concurring offices.</p>
+            <p>The care which Wee haue had euer since Wee were of vnderstanding and discretion to welde the Scepter of Authoritie and Maiestie, which God by prouidence vouchsafed to put into Our hands, to preserue Peace and Concord among Our loyall and louing Subiects, as well by ending causes of hereditary Quarrels, as by preuenting all occasions of Challenges, or Fights hand to
+<pb facs="tcp:185800:3"/>hand, which commonly arise out of wrongs either truely offered, or partially imagined, may bee best knowen by the report of so many gallant Noblemen, and Gentlemen, as haue had the honor both before Our comming to this Crowne, and since, to attend Our Royall Person in the qualitie of Councellors, ordinary attendants, or Officers.</p>
+            <p>Wee haue not ceased to call carefully and earnestly vpon some that attend Our Seruice, that such Rules, Corrections, and Constitutions might bee published against some Cauillers in these dayes more apt to argue and contest, then to acknowledge and submit, admitting no other Iudge of the iust measure for satisfaction, then a sharpe sword in the hand of malice, dazeled, if not blin<g ref="char:EOLhyphen"/>ded with selfe loue; yet hath Our charitable purpose beene so often both impeached and delayed by interuening lets, as it could not so speedily, as the quiet of the Kingdome, and the preserua<g ref="char:EOLhyphen"/>tion of many both illustrious and worthie Families did require, attaine to that happie end which it aymed at.</p>
+            <p>But finding by experience, that no kinde of warning, though proceeding from Our lenitie and grace, is able to containe those fiery affections, which create the matters vpon which their owne inuentions and malices may worke, and that this roote of rankor puts forth dayly fruits of very bitter taste, and desperate effect, depriuing the State of the kingdome of strong limmes, Our selues of worthy Subiects, and great houses of great hopes; Our pleasure is to set this worthy worke in hand, with expedition, and to leaue the full perfection, and entire accomplishment to time, which supplies industry.</p>
+            <p>Touching the second part of satisfaction to the partie grieued and offended, to the qualitie and proportion of the wrong, after that the price of contempt hath beene first answered to the Iustice of the Gouernment, Wee haue commended such Instructions and Heads to the Lords in Com<g ref="char:EOLhyphen"/>mission, as hauing bene first carefully examined by them, then aduisedly approued by Vs, and af<g ref="char:EOLhyphen"/>ter formally digested into one body for an vniuersall good, abounding also with those pleasing balmes that are able aswell to consolidate as heale, may serue for euer in that office, as infallible receites aboue all exceptions to partiallity or iniurie, when succeeding times shall marke with duetie and discretion, of what worth those persons were that haue beene satisfied.</p>
+            <p>Wherefore though we hold it fit in all points to preferre reason to opinion, yet we wil admit no such conceits for reasons, as neglecting vniuersall rules (which are indeed the fruits of experience and the treasure of time,) applie them selues wholly to the pleasing of the vulgar taste, and to the spreading of a common Paradox: Neither will wee euer giue way (so long as it shall please God that We weare this <hi>Crowne,</hi> and sit in this chaire of <hi>State</hi>) to those giddie spirits, that out of vaine<g ref="char:EOLhyphen"/>glorie or new fanglenesse in matters that belong to Regalment and Discipline, take a pride to swarue from the Reuerend Impressions of elder times, that haue wrought themselues into that worthy credit, which they hold by the worlds applause, and the proofe which all men haue of an vniuersall vtilitie.</p>
+            <p>All men that rightly vnderstand the nature of these Challenges, &amp; single Fights hand to hand, or by match among Gentlemen, after a Challenge sent in cold blood, either by writing, or by message, and accepted of the partie opposite, must acknowledge that this brauery, was first borne and bred in Forraine parts; but after conuaied ouer into this Island, as many other hurtfull and vnlawfull Wares are oftentimes in close packs, that neuer had the Seale of the places from whence they were brought to warrant them. For though it bee true that priuate men haue had their passions in attempting Quarrels, and some Princes likewise their errours and facilities, in winking at mens weakenesses in this kinde, for the space of many yeeres; yet doth it not appeare by Recorde, or Historie, that any one Kingdome, <hi>State</hi> of <hi>Peeres,</hi> or Democratie, since the begin<g ref="char:EOLhyphen"/>ning of the World till this day, did euer make good or auow the lawfulnesse of those attempts vn<g ref="char:EOLhyphen"/>der their Seales or Certificates, which their own Lawes, the Law of Nations, and the Lawes of God, doe both abhorre and abolish.</p>
+            <p>But since we finde of late that the <hi>Commanders</hi> of those <hi>States,</hi> wherein <hi>Fights</hi> vpon Chal<g ref="char:EOLhyphen"/>lenge were more frequent in former times, vpon the daily Demonstrations of the mischiefe which they powre, both into priuate Families, and into the Common wealth it selfe, haue beene more quicke and sharpe then any other (as their owne <hi>Edicts</hi> declare) to suppresse the very seeds; it were strange that Our Subiects should bee lesse apt to follow Forraine precedents, for the secu<g ref="char:EOLhyphen"/>ritie both of their consciences and liues, then they were before to second them in the wilfull courses which they tooke, to the vtter ouerthrow both of their liues and consciences, making shipwracks of their Soules by falling vpon this fatal rocke, without a more secret and sound repentance then
+<pb facs="tcp:185800:4"/>any man aliue, without the gift of Prophesie, can warrant or assure vnto himselfe in these speedie courses of dispatch, that send short Summons, for to protest to God priuately, as some aduise all <hi>Combatants</hi> as the surest helpe at a pinch before they begin fight, that <hi>[Their end is rather to repell and reuenge disgrace, then to draw blood]</hi> were in plaine termes <hi>Actum agere protestationi contrarium,</hi> and a more certaine way to exasperate the wrath of God by vntimely dalliance, then to excuse con<g ref="char:EOLhyphen"/>tempt by hypocrisie.</p>
+            <p>It skils not who reprooue, when Wee resolue, who dispute when Wee decide, who mu<g ref="char:EOLhyphen"/>tine against that which Wee vow to maintaine, or who complaine when Wee prosecute: For Our purpose is grounded vpon God, it is of proofe, it hath euer beene of vse, in a very high de<g ref="char:EOLhyphen"/>gree preseruing the fortunes, the liues, and the very soules of Our Subiects, from the spoile of <hi>Cormorants,</hi> the rage of weapons that reuenge, as they are vsed, without regard of iust measure, and from the iawes of hell: Wherefore let this serue for a gracious and faire warning to Our lo<g ref="char:EOLhyphen"/>uing Subiects once for all, to forbeare sending or accepting Challenges from the time prefixed in the caution specified: For Our purpose is to remit no iot of that seuerity which is set downe <hi>In terminis terminantibus:</hi> That the Demonstration of Our heauy displeasure may make it cleare in the iudgement and experience of all the world, That it is not so proper to the condition of a dutifull and obedient Subiect, to assume vnto himselfe this lawlesse kind of libertie, in presuming to fight, when, where, and with whom hee list; as to the right, the conscience and care of a Religious and iust Prince, to chastice all contempts of this high nature with due seuerity. Experience will proue, that to obey Superiours, is better then to Challenge equals, and by that time some delinquents haue in their owne persons paide the price of a contempt, warranted by no better ground then their owne glorie, the rest will be more apt and easie to be tempered and satisfied.</p>
+            <closer>
+               <dateline>Giuen at Our Palace of Westminster <date>the fourth day of February, in the eleuenth yeere of Our Reigne of England, France, and Ireland, and of Scotland the seuen and fourtieth.</date>
+               </dateline>
+               <lb/> God saue the King.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>❧ Imprinted at London by Robert Barker, Printer to the Kings most Excellent Maiestie. Anno Dom. 1613.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
